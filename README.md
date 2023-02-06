@@ -1,4 +1,4 @@
-# Shopping Cart Application
+# Login Form
 
 A simple login form using HTML, CSS, and JavaScript.
 
